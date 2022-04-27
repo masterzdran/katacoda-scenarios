@@ -1,0 +1,34 @@
+{
+  "title": "Basic Project Structure",
+  "description": "Overview of the structure of the project and the tools to be used.",
+  "difficulty": "Beginner",
+  "time": "1h",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "dotnet"
+  }
+}
