@@ -1,5 +1,11 @@
 {
   "title": "Introduction to Test Driven Development in C#",
   "description": "Introduction to software development driven by tests.",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "intro-tdd-csharp\\intro-tdd-csharp-introduction",
+      "title": "Basic Project Structure",
+      "description": "Overview of the structure of the project and the tools to be used."
+    }
+  ]
 }
